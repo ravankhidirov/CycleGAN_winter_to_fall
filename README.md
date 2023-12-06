@@ -3,4 +3,4 @@ A model that converts fall images to winter and vice versa.
 
 
 Hello! How are you doing?
-We (me and Tural created a model).
+We (me and Tural) created a model.
