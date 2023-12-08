@@ -7,6 +7,10 @@ Dataset is about 900 winter and 900 fall images collected by scraping of website
 In this task, Beautifull soup is used to scrape images. There are two zip files which are train and test images
 of winter and fall.
 
+The links to download datasets:
+train dataset: https://drive.google.com/file/d/1fKp01bKWR0ozXrBVmJ_APU03dZEXwwAJ/view?usp=drive_link
+test dataset: https://drive.google.com/file/d/1Wk7tX1jTYLqtTLeTCBVldJZc8Y7JJb_t/view?usp=drive_link
+
 # What does this model?
 This model converts winter images to fall and vice versa. The training has been done for only 20 epochs,
 which took about 3 hours in google colab with GPU.
@@ -20,7 +24,7 @@ Here you can find some of the pictures that has been converted using this model:
 # How to use this model.
 We have provided the dataset collected by web scraping. Addidtionally, we have saved our updated generators and discriminators.
 These can be downloaded and used as in LoadingSavedWeightsAndBiases.ipynb file.
-Datasets are in zip format. You can download and add them to your drive.After that the code will work in google colab.
+Datasets are in zip format. You can download and add them to your drive. After that the code will work in google colab.
 
 # Contributors
 I would like to give special thanks to Tural (https://github.com/tu0ral). We worked together while building the model, training, and finding dataset.
