@@ -18,9 +18,9 @@ of winter and fall.
 
 The links to download datasets:
 #
-train dataset: https://drive.google.com/file/d/1fKp01bKWR0ozXrBVmJ_APU03dZEXwwAJ/view?usp=drive_link
+train dataset: https://drive.google.com/file/d/1fKp01bKWR0ozXrBVmJ_APU03dZEXwwAJ/view?usp=sharing
 #
-test dataset: https://drive.google.com/file/d/1Wk7tX1jTYLqtTLeTCBVldJZc8Y7JJb_t/view?usp=drive_link
+test dataset: https://drive.google.com/file/d/1Wk7tX1jTYLqtTLeTCBVldJZc8Y7JJb_t/view?usp=sharing
 
 # How to use this model.
 We have provided the dataset collected by web scraping. Addidtionally, we have saved our updated generators and discriminators.
