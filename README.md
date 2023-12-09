@@ -3,7 +3,7 @@ A model that converts fall images to winter and vice versa.
 
 # What does this model?
 This model converts winter images to fall and vice versa. The training has been done for only 20 epochs,
-which took about 3 hours in google colab with GPU.
+which took about 4 hours in google colab with GPU.
 The model is cycle consistent generative adversial neural network.
 (Originally this model has been used to convert horse images to zebra images)
 Here you can find some of the pictures that has been converted using this model:
